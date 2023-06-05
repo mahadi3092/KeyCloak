@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyCloakAPI2", "KeyCloakAPI2\KeyCloakAPI2.csproj", "{AE124660-2CA6-47BA-A6BF-67DDE7D86A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Member.data", "Member.data\Member.data.csproj", "{49C40A70-3B37-43E1-80F1-4151F4D37644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE124660-2CA6-47BA-A6BF-67DDE7D86A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE124660-2CA6-47BA-A6BF-67DDE7D86A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE124660-2CA6-47BA-A6BF-67DDE7D86A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE124660-2CA6-47BA-A6BF-67DDE7D86A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49C40A70-3B37-43E1-80F1-4151F4D37644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C40A70-3B37-43E1-80F1-4151F4D37644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C40A70-3B37-43E1-80F1-4151F4D37644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C40A70-3B37-43E1-80F1-4151F4D37644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8912C4F-639F-4F6D-A928-4B8EA47EA19C}
+	EndGlobalSection
+EndGlobal
