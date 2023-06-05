@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace KeyCloakAPI2.Controllers
 {
-    
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class MemberController : ControllerBase
